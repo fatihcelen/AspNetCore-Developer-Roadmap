@@ -13,6 +13,8 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
+https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
+
 ## Roadmap
 
 ![Roadmap](./aspnetcore-developer-roadmap.png)
